@@ -4,6 +4,7 @@
 }
 body{
     background-color: #e1dcc5;
+    width: 100%;
 }
 .header{
     display: flex;
